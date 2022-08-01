@@ -1,0 +1,58 @@
+{
+   "id": 9,
+   "name": "ghost",
+   "damage_relations": {
+      "double_damage_from": [
+         {
+            "name": "ghost",
+            "url": "https://  /type/9"
+         },
+         {
+            "name": "dark",
+            "url": "https://  /type/2"
+         }
+      ],
+      "double_damage_to": [
+         {
+            "name": "ghost",
+            "url": "https://  /type/9"
+         },
+         {
+            "name": "psychic",
+            "url": "https://  /type/15"
+         }
+      ],
+      "half_damage_from": [
+         {
+            "name": "poison",
+            "url": "https://  /type/14"
+         },
+         {
+            "name": "bug",
+            "url": "https://  /type/1"
+         }
+      ],
+      "half_damage_to": [
+         {
+            "name": "dark",
+            "url": "https://  /type/2"
+         }
+      ],
+      "no_damage_from": [
+         {
+            "name": "normal",
+            "url": "https://  /type/13"
+         },
+         {
+            "name": "fighting",
+            "url": "https://  /type/6"
+         }
+      ],
+      "no_damage_to": [
+         {
+            "name": "normal",
+            "url": "https://  /type/13"
+         }
+      ]
+   }
+}

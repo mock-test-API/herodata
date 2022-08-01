@@ -1,0 +1,48 @@
+{
+   "count_total": 8,
+   "count_results": 0,
+   "next": null,
+   "prev": null,
+   "results": [
+      {
+         "id": 1,
+         "generation": "i",
+         "pokemon": []
+      },
+      {
+         "id": 2,
+         "generation": "ii",
+         "pokemon": []
+      },
+      {
+         "id": 3,
+         "generation": "iii",
+         "pokemon": []
+      },
+      {
+         "id": 4,
+         "generation": "iv",
+         "pokemon": []
+      },
+      {
+         "id": 5,
+         "generation": "v",
+         "pokemon": []
+      },
+      {
+         "id": 6,
+         "generation": "vi",
+         "pokemon": []
+      },
+      {
+         "id": 7,
+         "generation": "vii",
+         "pokemon": []
+      },
+      {
+         "id": 8,
+         "generation": "viii",
+         "pokemon": []
+      }
+   ]
+}

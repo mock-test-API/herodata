@@ -1,0 +1,101 @@
+{
+   "id": 17,
+   "name": "steel",
+   "damage_relations": {
+      "double_damage_from": [
+         {
+            "name": "fighting",
+            "url": "https:// /type/6"
+         },
+         {
+            "name": "ground",
+            "url": "https:// /type/11"
+         },
+         {
+            "name": "fire",
+            "url": "https:// /type/7"
+         }
+      ],
+      "double_damage_to": [
+         {
+            "name": "rock",
+            "url": "https:// /type/16"
+         },
+         {
+            "name": "ice",
+            "url": "https:// /type/12"
+         },
+         {
+            "name": "fairy",
+            "url": "https:// /type/5"
+         }
+      ],
+      "half_damage_from": [
+         {
+            "name": "normal",
+            "url": "https:// /type/13"
+         },
+         {
+            "name": "flying",
+            "url": "https:// /type/8"
+         },
+         {
+            "name": "rock",
+            "url": "https:// /type/16"
+         },
+         {
+            "name": "bug",
+            "url": "https:// /type/1"
+         },
+         {
+            "name": "steel",
+            "url": "https:// /type/17"
+         },
+         {
+            "name": "grass",
+            "url": "https:// /type/10"
+         },
+         {
+            "name": "psychic",
+            "url": "https:// /type/15"
+         },
+         {
+            "name": "ice",
+            "url": "https:// /type/12"
+         },
+         {
+            "name": "dragon",
+            "url": "https:// /type/3"
+         },
+         {
+            "name": "fairy",
+            "url": "https:// /type/5"
+         }
+      ],
+      "half_damage_to": [
+         {
+            "name": "steel",
+            "url": "https:// /type/17"
+         },
+         {
+            "name": "fire",
+            "url": "https:// /type/7"
+         },
+         {
+            "name": "water",
+            "url": "https:// /type/18"
+         },
+         {
+            "name": "electric",
+            "url": "https:// /type/4"
+         }
+      ],
+      "no_damage_from": [
+         {
+            "name": "poison",
+            "url": "https:// /type/14"
+         }
+      ],
+      "no_damage_to": []
+   }
+}

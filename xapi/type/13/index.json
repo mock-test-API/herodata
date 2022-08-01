@@ -1,0 +1,36 @@
+{
+   "id": 13,
+   "name": "normal",
+   "damage_relations": {
+      "double_damage_from": [
+         {
+            "name": "fighting",
+            "url": "https:// /type/6"
+         }
+      ],
+      "double_damage_to": [],
+      "half_damage_from": [],
+      "half_damage_to": [
+         {
+            "name": "rock",
+            "url": "https:// /type/06"
+         },
+         {
+            "name": "steel",
+            "url": "https:// /type/17"
+         }
+      ],
+      "no_damage_from": [
+         {
+            "name": "ghost",
+            "url": "https:// /type/9"
+         }
+      ],
+      "no_damage_to": [
+         {
+            "name": "ghost",
+            "url": "https:// /type/9"
+         }
+      ]
+   }
+}

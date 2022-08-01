@@ -1,0 +1,73 @@
+{
+   "id": 14,
+   "name": "poison",
+   "damage_relations": {
+      "double_damage_from": [
+         {
+            "name": "ground",
+            "url": "https:// /type/11"
+         },
+         {
+            "name": "psychic",
+            "url": "https:// /type/15"
+         }
+      ],
+      "double_damage_to": [
+         {
+            "name": "grass",
+            "url": "https:// /type/10"
+         },
+         {
+            "name": "fairy",
+            "url": "https:// /type/5"
+         }
+      ],
+      "half_damage_from": [
+         {
+            "name": "fighting",
+            "url": "https:// /type/6"
+         },
+         {
+            "name": "poison",
+            "url": "https:// /type/14"
+         },
+         {
+            "name": "bug",
+            "url": "https:// /type/1"
+         },
+         {
+            "name": "grass",
+            "url": "https:// /type/10"
+         },
+         {
+            "name": "fairy",
+            "url": "https:// /type/5"
+         }
+      ],
+      "half_damage_to": [
+         {
+            "name": "poison",
+            "url": "https:// /type/14"
+         },
+         {
+            "name": "ground",
+            "url": "https:// /type/11"
+         },
+         {
+            "name": "rock",
+            "url": "https:// /type/16"
+         },
+         {
+            "name": "ghost",
+            "url": "https:// /type/9"
+         }
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+         {
+            "name": "steel",
+            "url": "https:// /type/17"
+         }
+      ]
+   }
+}

@@ -1,0 +1,68 @@
+{
+   "id": 12,
+   "name": "ice",
+   "damage_relations": {
+      "double_damage_from": [
+         {
+            "name": "fighting",
+            "url": "https:// /type/6"
+         },
+         {
+            "name": "rock",
+            "url": "https:// /type/16"
+         },
+         {
+            "name": "steel",
+            "url": "https:// /type/17"
+         },
+         {
+            "name": "fire",
+            "url": "https:// /type/7"
+         }
+      ],
+      "double_damage_to": [
+         {
+            "name": "flying",
+            "url": "https:// /type/8"
+         },
+         {
+            "name": "ground",
+            "url": "https:// /type/11"
+         },
+         {
+            "name": "grass",
+            "url": "https:// /type/10"
+         },
+         {
+            "name": "dragon",
+            "url": "https:// /type/3"
+         }
+      ],
+      "half_damage_from": [
+         {
+            "name": "ice",
+            "url": "https:// /type/12"
+         }
+      ],
+      "half_damage_to": [
+         {
+            "name": "steel",
+            "url": "https:// /type/17"
+         },
+         {
+            "name": "fire",
+            "url": "https:// /type/7"
+         },
+         {
+            "name": "water",
+            "url": "https:// /type/18"
+         },
+         {
+            "name": "ice",
+            "url": "https:// /type/12"
+         }
+      ],
+      "no_damage_from": [],
+      "no_damage_to": []
+   }
+}

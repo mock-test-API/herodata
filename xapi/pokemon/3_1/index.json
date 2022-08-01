@@ -1,0 +1,75 @@
+{
+   "id": 4,
+   "name": "venusaur-mega",
+   "abilities": [
+      "overgrow",
+      "chlorophyll"
+   ],
+   "body_index": {
+      "height": {
+         "meters": 0.7,
+         "foot_inches": 2.04
+      },
+      "weight": {
+         "kilograms": 6.9,
+         "pounds": 15.2
+      }
+   },
+   "evolutions": {
+      "stages": [
+         {
+            "name": "bulbasaur",
+            "stage": "unevolved",
+            "url": "http://localhost:4000/xapi/pokemon/1"
+         },
+         {
+            "name": "ivysuar",
+            "stage": "first evolution",
+            "url": "http://localhost:4000/xapi/pokemon/2"
+         },
+         {
+            "name": "venusuar",
+            "stage": "second evolution",
+            "url": "http://localhost:4000/xapi/pokemon/3"
+         }
+      ]
+   },
+   "generation": {
+      "name": "kanto",
+      "url": "https:// generation/1"
+   },
+   "pokedex": {
+      "national_dex": {
+         "index": "001",
+         "url": "https:// /pokedex/0"
+      },
+      "regional_dex": {
+         "index": "001",
+         "name": "kanto_dex",
+         "url": "https:// /pokedex/1"
+      }
+   },
+   "sprites": {
+      "default": "https://raw.githubusercontent.com/mock-test-API/cLpokemon/main/mega/003-mega.png",
+      "thumbnail": "venusuar  icons/001.png"
+   },
+   "stats": {
+      "hp": 54,
+      "attack": 49,
+      "defence": 49,
+      "speed": 45,
+      "special-attack": 65,
+      "special-defense": 65
+   },
+   "type": [
+      {
+         "name": "grass",
+         "url": "https:// /type/10"
+      },
+      {
+         "name": "poison",
+         "url": "https:// /type/14"
+      }
+   ],
+   "variations": []
+}

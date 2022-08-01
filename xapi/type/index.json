@@ -1,0 +1,80 @@
+{
+   "count_total": 18,
+   "count_results": 0,
+   "next": null,
+   "prev": null,
+   "results": [
+      {
+         "name": "bug",
+         "url": "http:localhost:4000:/xapi/type/1"
+      },
+      {
+         "name": "dark",
+         "url": "http:localhost:4000:/xapi/type/2"
+      },
+      {
+         "name": "dragon",
+         "url": "http:localhost:4000:/xapi/type/3"
+      },
+      {
+         "name": "electric",
+         "url": "http:localhost:4000:/xapi/type/4"
+      },
+      {
+         "name": "fairy",
+         "url": "http:localhost:4000:/xapi/type/5"
+      },
+      {
+         "name": "fighting",
+         "url": "http:localhost:4000:/xapi/type/6"
+      },
+      {
+         "name": "fire",
+         "url": "http:localhost:4000:/xapi/type/7"
+      },
+      {
+         "name": "flying",
+         "url": "http:localhost:4000:/xapi/type/8"
+      },
+      {
+         "name": "ghost",
+         "url": "http:localhost:4000:/xapi/type/9"
+      },
+      {
+         "name": "grass",
+         "url": "http:localhost:4000:/xapi/type/10"
+      },
+      {
+         "name": "ground",
+         "url": "http:localhost:4000:/xapi/type/11"
+      },
+      {
+         "name": "ice",
+         "url": "http:localhost:4000:/xapi/type/12"
+      },
+      {
+         "name": "normal",
+         "url": "http:localhost:4000:/xapi/type/13"
+      },
+      {
+         "name": "poison",
+         "url": "http:localhost:4000:/xapi/type/14"
+      },
+      {
+         "name": "psychic",
+         "url": "http:localhost:4000:/xapi/type/15"
+      },
+      {
+         "name": "rock",
+         "url": "http:localhost:4000:/xapi/type/16"
+      },
+      {
+         "name": "steel",
+         "url": "http:localhost:4000:/xapi/type/17"
+      },
+      {
+         "name": "water",
+         "url": "http:localhost:4000:/xapi/type/18"
+      }
+   ]
+}

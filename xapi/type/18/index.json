@@ -1,0 +1,64 @@
+{
+   "id": 18,
+   "name": "water",
+   "damage_relations": {
+      "double_damage_from": [
+         {
+            "name": "grass",
+            "url": "https:// /type/10"
+         },
+         {
+            "name": "electric",
+            "url": "https:// /type/4"
+         }
+      ],
+      "double_damage_to": [
+         {
+            "name": "ground",
+            "url": "https:// /type/11"
+         },
+         {
+            "name": "rock",
+            "url": "https:// /type/16"
+         },
+         {
+            "name": "fire",
+            "url": "https:// /type/7"
+         }
+      ],
+      "half_damage_from": [
+         {
+            "name": "steel",
+            "url": "https:// /type/17"
+         },
+         {
+            "name": "fire",
+            "url": "https:// /type/7"
+         },
+         {
+            "name": "water",
+            "url": "https:// /type/18"
+         },
+         {
+            "name": "ice",
+            "url": "https:// /type/12"
+         }
+      ],
+      "half_damage_to": [
+         {
+            "name": "water",
+            "url": "https:// /type/18"
+         },
+         {
+            "name": "grass",
+            "url": "https:// /type/10"
+         },
+         {
+            "name": "dragon",
+            "url": "https:// /type/3"
+         }
+      ],
+      "no_damage_from": [],
+      "no_damage_to": []
+   }
+}

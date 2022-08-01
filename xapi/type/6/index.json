@@ -1,0 +1,85 @@
+{
+   "id": 6,
+   "name": "fighting",
+   "damage_relations": {
+      "double_damage_from": [
+         {
+            "name": "flying",
+            "url": "https://  /type/8"
+         },
+         {
+            "name": "psychic",
+            "url": "https://  /type/15"
+         },
+         {
+            "name": "fairy",
+            "url": "https://  /type/5"
+         }
+      ],
+      "double_damage_to": [
+         {
+            "name": "normal",
+            "url": "https://  /type/13"
+         },
+         {
+            "name": "rock",
+            "url": "https://  /type/16"
+         },
+         {
+            "name": "steel",
+            "url": "https://  /type/17"
+         },
+         {
+            "name": "ice",
+            "url": "https://  /type/12"
+         },
+         {
+            "name": "dark",
+            "url": "https://  /type/2"
+         }
+      ],
+      "half_damage_from": [
+         {
+            "name": "rock",
+            "url": "https://  /type/16"
+         },
+         {
+            "name": "bug",
+            "url": "https://  /type/1"
+         },
+         {
+            "name": "dark",
+            "url": "https://  /type/2"
+         }
+      ],
+      "half_damage_to": [
+         {
+            "name": "flying",
+            "url": "https://  /type/8"
+         },
+         {
+            "name": "poison",
+            "url": "https://  /type/14"
+         },
+         {
+            "name": "bug",
+            "url": "https://  /type/1"
+         },
+         {
+            "name": "psychic",
+            "url": "https://  /type/15"
+         },
+         {
+            "name": "fairy",
+            "url": "https://  /type/5"
+         }
+      ],
+      "no_damage_from": [],
+      "no_damage_to": [
+         {
+            "name": "ghost",
+            "url": "https://  /type/9"
+         }
+      ]
+   }
+}

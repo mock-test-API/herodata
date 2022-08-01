@@ -1,0 +1,65 @@
+{
+   "id": 5,
+   "name": "fairy",
+   "damage_relations": {
+      "double_damage_from": [
+         {
+            "name": "poison",
+            "url": "https://  /type/14"
+         },
+         {
+            "name": "steel",
+            "url": "https://  /type/17"
+         }
+      ],
+      "double_damage_to": [
+         {
+            "name": "fighting",
+            "url": "https://  /type/6"
+         },
+         {
+            "name": "dragon",
+            "url": "https://  /type/3"
+         },
+         {
+            "name": "dark",
+            "url": "https://  /type/2"
+         }
+      ],
+      "half_damage_from": [
+         {
+            "name": "fighting",
+            "url": "https://  /type/6"
+         },
+         {
+            "name": "bug",
+            "url": "https://  /type/1"
+         },
+         {
+            "name": "dark",
+            "url": "https://  /type/2"
+         }
+      ],
+      "half_damage_to": [
+         {
+            "name": "poison",
+            "url": "https://  /type/14"
+         },
+         {
+            "name": "steel",
+            "url": "https://  /type/17"
+         },
+         {
+            "name": "fire",
+            "url": "https://  /type/7"
+         }
+      ],
+      "no_damage_from": [
+         {
+            "name": "dragon",
+            "url": "https://  /type/3"
+         }
+      ],
+      "no_damage_to": []
+   }
+}

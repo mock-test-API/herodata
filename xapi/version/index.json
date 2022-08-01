@@ -1,0 +1,294 @@
+{
+   "count_total": 40,
+   "count_results": 0,
+   "next": null,
+   "prev": null,
+   "results": [
+      {
+         "id": 1,
+         "name": "red",
+         "contents": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 2,
+         "name": "blue",
+         "contents": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 3,
+         "name": "yellow",
+         "contents": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 4,
+         "name": "gold",
+         "contents": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 5,
+         "name": "silver",
+         "contents": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 6,
+         "name": "crystal",
+         "contents": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 7,
+         "ruby": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 8,
+         "sapphire": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 9,
+         "emerald": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 10,
+         "firered": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 11,
+         "leafgreen": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 12,
+         "diamond": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 13,
+         "pearl": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 14,
+         "platinum": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 15,
+         "heartgold": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 16,
+         "soulsilver": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 17,
+         "black": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 18,
+         "white": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 19,
+         "colosseum": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 20,
+         "xd": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 21,
+         "black-2": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 22,
+         "white-2": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 23,
+         "x": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 24,
+         "y": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 25,
+         "omega-ruby": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 26,
+         "alpha-sapphire": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 7,
+         "sun": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 28,
+         "moon": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 29,
+         "ultra-sun": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 30,
+         "ultra-moon": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 31,
+         "lets-go-pikachu": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 32,
+         "lets-go-eevee": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 33,
+         "sword": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 34,
+         "shield": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 35,
+         "the-isle-of-armor": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 36,
+         "the-crown-tundra": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 37,
+         "brilliant-diamond": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 38,
+         "shining-pearl": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 39,
+         "legends-arceus": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      },
+      {
+         "id": 40,
+         "Scarlet-&-Violet": {
+            "pokedex": "",
+            "version-group": {}
+         }
+      }
+   ]
+}
