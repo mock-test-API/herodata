@@ -75,7 +75,7 @@
       {
          "name": "venusuar-mega",
          "form": "temporary evolution state acheived from using mega [pokemon-named] stone",
-         "url": "https://xapidata.herokuapp.com/pokemon/3_1"
+         "url": "https://xapidata.herokuapp.com/xapi/pokemon/3_1"
       },
       {
          "name": "venusuar-gigantamax",
