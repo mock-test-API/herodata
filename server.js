@@ -9,7 +9,8 @@ app.use(compression())
 app.use(express.json())
 app.use(cors())
 
-app.listen(PORT, (req, res) => console.log('liste'))
+app.listen(PORT, (req, res) => console.log('updated console'))
+app.get('/', (req, res) => res.sendFile(process.cwd() + '/index.html'))
 
 app.get([
    '/xapi/',
