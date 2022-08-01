@@ -1,8 +1,7 @@
 {
-   "generations":  "http://localhost:4000/xapi/generations/",
-   "pokemon": "http://localhost:4000/xapi/pokemon/",
-   "sprites": "http://   /xapi/sprites/",
-   "type": "http://localhost:4000/xapi/type/",
+   "generations":  "https://xapidata.herokuapp.com/xapi/generations/",
+   "pokemon": "https://xapidata.herokuapp.com/xapi/pokemon/",
+   "type": "https://xapidata.herokuapp.com/xapi/type/",
    "un-released":  "http://   /xapi/un-released/",
-   "version": "http://localhost:4000/xapi/version/"
+   "version": "https://xapidata.herokuapp.com/xapi/version/"
 }

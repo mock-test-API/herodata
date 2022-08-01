@@ -20,17 +20,17 @@
          {
             "name": "bulbasaur",
             "stage": "unevolved",
-            "url": "https://  /1"
+            "url": "https://xapidata.herokuapp.com/xapi/pokemon/1"
          },
          {
             "name": "ivysuar",
             "stage": "first evolution",
-            "url": "https://  /2"
+            "url": "https://xapidata.herokuapp.com/xapi/pokemon/2"
          },
          {
             "name": "venusuar",
             "stage": "second evolution",
-            "url": "https://  /3"
+            "url": "https://xapidata.herokuapp.com/xapi/pokemon/3"
          }
       ]
    },
@@ -64,11 +64,11 @@
    "type": [
       {
          "name": "grass",
-         "url": "https:// /type/10"
+         "url": "https://xapidata.herokuapp.com/type/10"
       },
       {
          "name": "poison",
-         "url": "https:// /type/14"
+         "url": "https://xapidata.herokuapp.com/type/14"
       }
    ],
    "variations": []
